@@ -13,7 +13,7 @@ Repositório para armazenar resumos sobre Git e GitHub do curso Versionamento de
 
 |Aulas |Resumos |
 | -----|---------|
-| Gravando Alteraçaões no Repositório Loacal| [Resumos]() |
+| Gravando Alteraçaões no Repositório Loacal| [Resumo]() |
 
 
 ## 💻 Comandos Importantes
